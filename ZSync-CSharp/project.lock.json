@@ -1,0 +1,34 @@
+{
+  "locked": false,
+  "version": -9998,
+  "projectFileDependencyGroups": {
+    "": [
+      "NDepend.Path >= 1.0.0"
+    ],
+    "DNX,Version=v4.5.1": []
+  },
+  "libraries": {
+    "NDepend.Path/1.0.0": {
+      "serviceable": false,
+      "sha": "RxO2b2tOQPbue6dLmzq6JaoZGsZt/IHpaLJurJfrKiXqcBcYOV/CjNubmaT1jCwFFJCCaVHJgJlOnf+6UU6Xcw==",
+      "frameworks": {
+        "DNX,Version=v4.5.1": {
+          "dependencies": {},
+          "frameworkAssemblies": [],
+          "runtimeAssemblies": [
+            "lib/net35/NDepend.Path.dll"
+          ],
+          "compileAssemblies": [
+            "lib/net35/NDepend.Path.dll"
+          ]
+        }
+      },
+      "files": [
+        "NDepend.Path.1.0.0.nupkg",
+        "NDepend.Path.1.0.0.nupkg.sha512",
+        "NDepend.Path.nuspec",
+        "lib/net35/NDepend.Path.dll"
+      ]
+    }
+  }
+}
